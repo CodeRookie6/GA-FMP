@@ -1,4 +1,4 @@
-#MFTP_MFFP
+# MFTP_MFFP
 
 MFTP_MFFP( multi-functional therapeutic peptide of multi-feature fusion prediction ) is a deep learning model designed for multifunctional therapeutic peptide prediction.
 
