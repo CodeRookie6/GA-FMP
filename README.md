@@ -1,6 +1,6 @@
 # GA-FMP
 
-GA-FMP (Genetic Algorithm-based Fusion Network for MFTPs) is a deep learning model designed for multifunctional therapeutic peptide prediction.
+MFTP MFFP( multi-functional therapeutic peptide of multi-feature fusion prediction ) is a deep learning model designed for multifunctional therapeutic peptide prediction.
 
 ## Features
 
@@ -8,6 +8,7 @@ GA-FMP (Genetic Algorithm-based Fusion Network for MFTPs) is a deep learning mod
 - Fuzzy representation using Gaussian membership.
 - BiLSTM feature extraction.
 - Hyperparameter optimization using Genetic Algorithm.
+- Marginal focal dice loss function
 
 ## Installation
 
